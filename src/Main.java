@@ -12,7 +12,7 @@ public class Main {
         String tipo = sc.nextLine();
         System.out.println("\nIngrese el pais del platillo: ");
         String pais = sc.nextLine();
-        System.out.println("\nIngrese la region del platillo: ");
+        System.out.println("\nIngrese la region del platillo : ");
         String region = sc.nextLine();
         System.out.println("\nIngrese la ciudad donde se creo el platillo: ");
         String ciudad = sc.nextLine();
